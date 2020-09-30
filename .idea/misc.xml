@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-uaa/pom.xml" />
+        <option value="$PROJECT_DIR$/test-rocketmq/pom.xml" />
+        <option value="$PROJECT_DIR$/test-rocketmq/rocketmq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/test-rocketmq/rocketmq-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-user/pom.xml" />
+        <option value="$PROJECT_DIR$/test-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-merchant/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-merchant/shanjupay-merchant-api/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-merchant/shanjupay-merchant-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-payment-agent/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-merchant-application/pom.xml" />
+        <option value="$PROJECT_DIR$/shanjupay-operation-application/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
