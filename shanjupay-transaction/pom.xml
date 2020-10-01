@@ -16,4 +16,5 @@
         <module>shanjupay-transaction-api</module>
         <module>shanjupay-transaction-service</module>
     </modules>
+
 </project>

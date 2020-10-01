@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -30,19 +31,19 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="rocketmq-consumer" options="-parameters" />
       <module name="rocketmq-producer" options="-parameters" />
-      <module name="shanjupay-common" options="-parameters -bootclasspath $PROJECT_DIR$/../../ProgramFiles/Java/jdk1.8.0_241/jre/lib/rt.jar;$PROJECT_DIR$/../../ProgramFiles/Java/jdk1.8.0_241/jre/lib/jce.jar" />
+      <module name="shanjupay-common" options="-parameters -bootclasspath G:/lyfGeek/ProgramFiles/Java/jdk1.8.0_241/jre/lib/rt.jar;G:/lyfGeek/ProgramFiles/Java/jdk1.8.0_241/jre/lib/jce.jar" />
       <module name="shanjupay-gateway-service" options="-parameters" />
       <module name="shanjupay-merchant-api" options="-parameters" />
       <module name="shanjupay-merchant-application" options="-parameters" />
       <module name="shanjupay-merchant-service" options="-parameters" />
-      <module name="shanjupay-operation-application" options="-parameters -bootclasspath $PROJECT_DIR$/../../ProgramFiles/Java/jdk1.8.0_241/jre/lib/rt.jar;$PROJECT_DIR$/../../ProgramFiles/Java/jdk1.8.0_241/jre/lib/jce.jar" />
-      <module name="shanjupay-payment-agent-api" options="-parameters -bootclasspath $PROJECT_DIR$/../../ProgramFiles/Java/jdk1.8.0_241/jre/lib/rt.jar;$PROJECT_DIR$/../../ProgramFiles/Java/jdk1.8.0_241/jre/lib/jce.jar" />
+      <module name="shanjupay-operation-application" options="-parameters -bootclasspath G:/lyfGeek/ProgramFiles/Java/jdk1.8.0_241/jre/lib/rt.jar;G:/lyfGeek/ProgramFiles/Java/jdk1.8.0_241/jre/lib/jce.jar" />
+      <module name="shanjupay-payment-agent-api" options="-parameters -bootclasspath G:/lyfGeek/ProgramFiles/Java/jdk1.8.0_241/jre/lib/rt.jar;G:/lyfGeek/ProgramFiles/Java/jdk1.8.0_241/jre/lib/jce.jar" />
       <module name="shanjupay-payment-agent-service" options="-parameters" />
-      <module name="shanjupay-transaction-api" options="-parameters -bootclasspath $PROJECT_DIR$/../../ProgramFiles/Java/jdk1.8.0_241/jre/lib/rt.jar;$PROJECT_DIR$/../../ProgramFiles/Java/jdk1.8.0_241/jre/lib/jce.jar" />
+      <module name="shanjupay-transaction-api" options="-parameters -bootclasspath G:/lyfGeek/ProgramFiles/Java/jdk1.8.0_241/jre/lib/rt.jar;G:/lyfGeek/ProgramFiles/Java/jdk1.8.0_241/jre/lib/jce.jar" />
       <module name="shanjupay-transaction-service" options="-parameters" />
-      <module name="shanjupay-uaa-api" options="-parameters -bootclasspath $PROJECT_DIR$/../../ProgramFiles/Java/jdk1.8.0_241/jre/lib/rt.jar;$PROJECT_DIR$/../../ProgramFiles/Java/jdk1.8.0_241/jre/lib/jce.jar" />
+      <module name="shanjupay-uaa-api" options="-parameters -bootclasspath G:/lyfGeek/ProgramFiles/Java/jdk1.8.0_241/jre/lib/rt.jar;G:/lyfGeek/ProgramFiles/Java/jdk1.8.0_241/jre/lib/jce.jar" />
       <module name="shanjupay-uaa-service" options="-parameters" />
-      <module name="shanjupay-user-api" options="-parameters -bootclasspath $PROJECT_DIR$/../../ProgramFiles/Java/jdk1.8.0_241/jre/lib/rt.jar;$PROJECT_DIR$/../../ProgramFiles/Java/jdk1.8.0_241/jre/lib/jce.jar" />
+      <module name="shanjupay-user-api" options="-parameters -bootclasspath G:/lyfGeek/ProgramFiles/Java/jdk1.8.0_241/jre/lib/rt.jar;G:/lyfGeek/ProgramFiles/Java/jdk1.8.0_241/jre/lib/jce.jar" />
       <module name="shanjupay-user-service" options="-parameters" />
       <module name="test-freemarker" options="-parameters" />
     </option>
